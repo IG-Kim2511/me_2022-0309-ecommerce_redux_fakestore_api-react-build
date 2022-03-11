@@ -1,0 +1,25 @@
+.product_js .items-wrap{
+    padding:2rem
+}
+
+.product_js .items{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.product_js .img-parent,
+.product_js .title,
+.product_js .price,
+.product_js .description{
+    padding: 2rem;
+
+    text-align: left;
+}
+
+.product_js .myBtn{
+    background: linear-gradient(to bottom, #dc3545 5%, #dc3545 100%);
+    background-color: #dc3545;    
+    border: 1px solid #dc3545;
+}
