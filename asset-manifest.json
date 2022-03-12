@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/me_2022-0309-ecommerce_redux_fakestore_api-react-build/static/css/main.499eb7a5.css",
-    "main.js": "/me_2022-0309-ecommerce_redux_fakestore_api-react-build/static/js/main.c7f7e40b.js",
+    "main.js": "/me_2022-0309-ecommerce_redux_fakestore_api-react-build/static/js/main.aa58b439.js",
     "index.html": "/me_2022-0309-ecommerce_redux_fakestore_api-react-build/index.html",
     "main.499eb7a5.css.map": "/me_2022-0309-ecommerce_redux_fakestore_api-react-build/static/css/main.499eb7a5.css.map",
-    "main.c7f7e40b.js.map": "/me_2022-0309-ecommerce_redux_fakestore_api-react-build/static/js/main.c7f7e40b.js.map"
+    "main.aa58b439.js.map": "/me_2022-0309-ecommerce_redux_fakestore_api-react-build/static/js/main.aa58b439.js.map"
   },
   "entrypoints": [
     "static/css/main.499eb7a5.css",
-    "static/js/main.c7f7e40b.js"
+    "static/js/main.aa58b439.js"
   ]
 }
